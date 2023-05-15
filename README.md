@@ -14,3 +14,7 @@
 ### Learning ⏳
 
 <img src="https://user-images.githubusercontent.com/25181517/192599922-3a8ceb1c-ff1d-40bc-b73c-99ea1182d8ad.png" width="50" height="50">
+
+### About Me 🤖
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tukarp&hide=jupyter%20notebook&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
