@@ -24,7 +24,7 @@
 
 [![Learning](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
 <img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" width="50" height="50">
-[![Learning](https://skillicons.dev/icons?i=spring,hibernate)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=spring,hibernate,jenkins)](https://skillicons.dev)
 
 ### Links 🔗
 
